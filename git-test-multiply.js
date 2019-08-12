@@ -1,4 +1,7 @@
 // multiply.js
+
+//return product of two numbers
 function multiply(a, b) {
+	return a*b
     // TODO return
 };
